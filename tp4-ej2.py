@@ -1,3 +1,10 @@
+################
+# Giuliano Daniele - @MaiandraGD
+# TP4-EJ2
+# UNRN Andina - Introducción a la Ingeniería en Computación
+################
+
+
 def suma_lenta():
     num1 = int(input("Ingrese el primero numero: "))
     num2 = int(input("Ingrese el segundo numero: "))
@@ -9,6 +16,7 @@ def suma_lenta():
     
 if __name__ == "__main__":
     suma_lenta()
+
 
 # no funciona si el segundo numero es negativo
 # podría probar con valor absoluto o un condicional
