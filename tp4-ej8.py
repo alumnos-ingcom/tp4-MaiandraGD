@@ -58,6 +58,6 @@ def ordenar_menor_a_mayor(a, b, c):
             return orden
     
 
-# intentar realizarlo de forma dinámica con un bucle for
+# intentar realizarlo de forma dinámica con un bucle
 
     
