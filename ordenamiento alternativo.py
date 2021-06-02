@@ -1,3 +1,9 @@
+################
+# Giuliano Daniele - @MaiandraGD
+# UNRN Andina - Introducción a la Ingeniería en Computación
+################
+
+
 from random import shuffle
 from time import time
 
